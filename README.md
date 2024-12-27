@@ -1,6 +1,6 @@
 ﻿# **GeneraPoemasAI** 🤖📝
 
-# ![](Aspose.Words.bb942ea2-2953-4838-8ed0-9d18a375cb65.001.jpeg)
+# ![](Aspose.Words.1d2d0603-8b0b-4a80-850b-e9831767fe1f.001.jpeg)
 #
 ## ¡Bienvenido al proyecto GeneraPoemasAI!
 Este proyecto tiene como objetivo generar poesía, cuentos o cualquier otro tipo de texto utilizando modelos de lenguaje preentrenados de Hugging Face.
