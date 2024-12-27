@@ -1,6 +1,6 @@
 ﻿# **GeneraPoemasAI** 🤖📝
 
-# ![](Aspose.Words.535f42f5-dfbd-42e1-8e28-c948fdd14297.001.jpeg)
+# ![](Aspose.Words.bb942ea2-2953-4838-8ed0-9d18a375cb65.001.jpeg)
 #
 ## ¡Bienvenido al proyecto GeneraPoemasAI!
 Este proyecto tiene como objetivo generar poesía, cuentos o cualquier otro tipo de texto utilizando modelos de lenguaje preentrenados de Hugging Face.
@@ -31,11 +31,8 @@ Este proyecto tiene como objetivo generar poesía, cuentos o cualquier otro tipo
 - Generar texto basado en una entrada específica proporcionada por el usuario.
 ## Instalación de Librerías Necesarias 📦<a name=instalación-de-librerías-necesarias></a>
 ### Requisitos Previos
-- **Entorno de Python**:
-  Asegúrate de tener Python instalado en tu sistema. Puedes descargarlo desde [python.org](https://www.python.org/).
-- **Librerías**:
-  Instala las siguientes librerías usando pip:  ```bash
-  pip install transformers huggingface\_hub torch python-dotenv``
+- `        `**Entorno de Python**: Para ese proyecto usamos Google Colabe y Codespace. 
+- ` `**Librerías**: Se instalan todas las librerías usadas en el proyecto.
 ## Uso del Código 💻<a name=uso-del-código></a>
 1. **Cargar Variables de Entorno**:
 - El código utiliza la biblioteca  python-dotenv  para cargar variables de entorno desde un archivo  .env  ubicado en Google Drive.
